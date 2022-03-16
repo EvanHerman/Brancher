@@ -1,8 +1,4 @@
 <?php
-/**
- * @package Brancher
- * @version 1.0.0
- */
 /*
  * Plugin Name: Brancher
  * Plugin URI: none
