@@ -1,5 +1,5 @@
 <?php
-/*
+/**
  * Plugin Name: Brancher
  * Plugin URI: none
  * Description: A plugin that when activated shows the current branch of other plugins.
